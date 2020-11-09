@@ -1,6 +1,6 @@
 {
   "appId": "io.ionic.starter",
-  "appName": "myAppWithVue",
+  "appName": "myVueApp",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "dist",
